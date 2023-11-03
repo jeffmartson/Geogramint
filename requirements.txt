@@ -13,3 +13,4 @@ rich==12.6.0
 selenium==4.7.2
 webdriver_manager==3.8.5
 plyer==2.1.0
+pillow>=10.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
